@@ -1,0 +1,18 @@
+2022-11-29 21:54:10,804 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-29 21:58:24,114 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-29 22:02:29,677 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 30JulyMBDalalStrreet:30JulyMBDalalStrreet:0.0.1-SNAPSHOT @ C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\pom.xml.
+2022-11-29 22:02:34,339 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30JulyMBDalalStrreet/src/main/java
+2022-11-29 22:02:34,341 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30JulyMBDalalStrreet/src/test/java
+2022-11-29 22:02:34,522 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2022-11-29 22:02:35,748 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:02:35,749 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\main\resources
+2022-11-29 22:02:35,752 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:02:35,752 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\test\resources
+2022-11-29 22:04:12,148 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:04:12,148 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\main\resources
+2022-11-29 22:04:12,151 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:04:12,151 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\test\resources
+2022-11-29 22:04:19,935 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:04:19,935 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\main\resources
+2022-11-29 22:04:19,937 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:04:19,937 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\test\resources
