@@ -16,3 +16,13 @@
 2022-11-29 22:04:19,935 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\main\resources
 2022-11-29 22:04:19,937 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-11-29 22:04:19,937 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\Downloads\30JulyMBDalalStrreet (3)\30JulyMBDalalStrreet\src\test\resources
+2022-11-29 22:27:39,820 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MyPracticeProject:MyPracticeProject:0.0.1-SNAPSHOT @ C:\Users\Sonali\eclipse-workspace\MyPracticeProject\pom.xml.
+2022-11-29 22:27:56,062 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:27:56,062 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\eclipse-workspace\MyPracticeProject\src\main\resources
+2022-11-29 22:27:56,064 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:27:56,064 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\eclipse-workspace\MyPracticeProject\src\test\resources
+2022-11-29 22:27:57,472 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MyPracticeProject:MyPracticeProject:0.0.1-SNAPSHOT @ C:\Users\Sonali\eclipse-workspace\MyPracticeProject\pom.xml.
+2022-11-29 22:28:11,894 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:28:11,894 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\eclipse-workspace\MyPracticeProject\src\main\resources
+2022-11-29 22:28:11,896 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 22:28:11,896 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonali\eclipse-workspace\MyPracticeProject\src\test\resources
